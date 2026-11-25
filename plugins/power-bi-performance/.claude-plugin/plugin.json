@@ -1,0 +1,10 @@
+{
+  "name": "power-bi-performance",
+  "version": "1.3.4",
+  "description": "Find slow Power BI visuals, test DAX rewrites on a copy, and measure the results on the local engine.",
+  "author": { "name": "QueryTorque" },
+  "homepage": "https://querytorque.com",
+  "repository": "https://github.com/querytorque/power-bi-performance",
+  "license": "Apache-2.0",
+  "keywords": ["power-bi", "dax", "performance", "windows"]
+}

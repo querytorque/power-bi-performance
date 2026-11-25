@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "qt-dax": {
+      "type": "stdio",
+      "command": "powershell",
+      "args": [
+        "-NoProfile", "-ExecutionPolicy", "Bypass", "-File",
+        "${CLAUDE_PLUGIN_ROOT}/scripts/qtdax-mcp.ps1"
+      ]
+    }
+  }
+}

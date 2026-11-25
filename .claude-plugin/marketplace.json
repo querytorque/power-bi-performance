@@ -1,0 +1,8 @@
+{
+  "name": "querytorque-power-bi-performance",
+  "owner": { "name": "QueryTorque" },
+  "metadata": { "description": "QueryTorque tools for investigating and improving Power BI performance." },
+  "plugins": [
+    { "name": "power-bi-performance", "source": "./plugins/power-bi-performance" }
+  ]
+}
